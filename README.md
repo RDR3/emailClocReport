@@ -3,7 +3,7 @@ ___
 
 #### Scan a specified repo using cloc-1.64.exe and email the results as a .csv file.
 
-emailClocReport clones a repository of your specification to your local machine. It downloads cloc v1.64 to the working directory and scans the repo clone. The results of the scan are sent to an email address you specify as a .csv file. At the end you have the option to remove the repo clone directory and the cloc file from the working directory.
+emailClocReport.py clones a repository of your specification to your local machine. It downloads cloc v1.64 to the working directory and scans the repo clone. The results of the scan are sent to an email address you specify as a .csv file. At the end you have the option to remove the repo clone directory and the cloc file from the working directory.
 
 ##### Requirements
 
